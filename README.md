@@ -15,9 +15,9 @@
  - Hardworker
  - Effective communicator
  - Team builder
- - Leaderer
- - Finds resolution to conflict
+ - Leader
  - Self-motivated
+ - Finds resolution to conflict
 
 ## Work Experience
 ### Information Technology Consultant Internship
@@ -30,8 +30,7 @@
   *Tel Hai Retirement Community, Honey Brook, PA*
  - Trained new wait team members
  - Waited on tables at special events with other top performing waiters/waitresses
- - Waited on tables in the dining room
- - Hosted tables in the dining room
+ - Hosted and waited on tables in the dining room
  - Prepared and delivered to-go orders
   
 ### Golf Stand Attendant and Events Coordinator
@@ -51,10 +50,10 @@
 ### General Education Diploma
   *Pequea Valley High School, Kinzers, PA*
  - Graduated in June, 2018
- - Successfully completed 4 AP courses with high grades (Calculus AB, Calculus BC, Computer Science Principles, Biology)
- - Successfully completed many honors level courses with high grades
+ - Successfully completed 4 AP courses (Calculus AB, Calculus BC, Computer Science Principles, Biology)
+ - Successfully completed many honors level courses
 
 ## Other Interests/Hobbies
-  - Programming personal projects (simple software applications, game modifications, simple game applications)
+  - Programming personal projects (software applications to replace repetitive tasks, game modifications, simple game applications)
   - Rock climbing (bouldering, top rope, etc)
   - Playing games of all sorts (video games, outdoor games, etc)
