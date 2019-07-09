@@ -54,6 +54,6 @@
  - Successfully completed many honors level courses
 
 ## Other Interests/Hobbies
-  - Programming personal projects (software applications to replace &nbsprepetitive tasks, game modifications, simple game applications)
+  - Programming personal projects (software applications to replace &nbsp&nbsp&nbsp&nbsprepetitive tasks, game modifications, simple game applications)
   - Rock climbing (bouldering, top rope, etc)
   - Playing games of all sorts (video games, outdoor games, etc)
