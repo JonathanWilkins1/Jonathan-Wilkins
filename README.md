@@ -1,7 +1,7 @@
 # Who is Jonathan Wilkins?
 
 ## A little bit about me...
-   I am a hardworking individual who loves to sit down and code whatever comes to my mind or relax and play some games.
+   I am a hardworking individual who loves to sit down and code whatever comes to my mind, or to relax and play some games.
 
 ## Skills
 ### Programming Languages
