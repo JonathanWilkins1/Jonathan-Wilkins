@@ -12,12 +12,12 @@
  * **JavaScript** - Self-taught for implementation in personal projects alongside HTML and CSS
  
 ### Personal Skills
- - Hardworker
+ - Hard worker
  - Effective communicator
  - Team builder
  - Leader
  - Self-motivated
- - Finds resolution to conflict
+ - Resolves conflict
 
 ## Work Experience
 ### Information Technology Consultant Internship
