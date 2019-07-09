@@ -37,7 +37,8 @@
  #### Golf Stand Attendant and Events Coordinator
   *Pitch-n-Putt Golf Course, New Holland, PA*
  - Organized buildings for reserved events
- - Signed in customers to play golf
+ - Signed in and collected payment for customers to play golf
+ - Provided golf clubs/golf balls to customers
 
 ## Education
  #### Bachelor of Computer Science Degree ― Minor in Mathematics
@@ -53,7 +54,7 @@
  - Successfully completed 4 AP courses with high grades (Calculus AB, Calculus BC, Computer Science Principles, Biology)
  - Successfully completed many honors level courses with high grades
 
-## Interests/Hobbies
-  - Programming
-  - Rock Climbing
-  - Playing games of all sorts
+## Other Interests/Hobbies
+  - Programming personal projects (simple software applications, game modifications, simple game applications)
+  - Rock climbing (bouldering, top rope, etc)
+  - Playing games of all sorts (video games, outdoor games, etc)
