@@ -5,11 +5,11 @@
 
 ## Skills
  #### Programming Languages
- **Java** - Extended knowledge and familiarity with Java through several courses taken in college
- **Python** - Basic knowledge and familiarity with Python through AP Computer Science Principles in high school
- **HTML** - Self-taught for personal projects
- **CSS** - Self-taught for implementations in personal projects alongside HTML
- **JavaScript** - Self-taught for implementations in personal projects alongside HTML and CSS
+ * **Java** - Extended knowledge and familiarity with Java through several courses taken in college
+ * **Python** - Basic knowledge and familiarity with Python through AP Computer Science Principles in high school
+ * **HTML** - Self-taught for personal projects
+ * **CSS** - Self-taught for implementations in personal projects alongside HTML
+ * **JavaScript** - Self-taught for implementations in personal projects alongside HTML and CSS
  
  #### Personal Skills
  - Hardworker
