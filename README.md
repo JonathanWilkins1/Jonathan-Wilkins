@@ -1,16 +1,16 @@
-##Who is Jonathan Wilkins?
+## Who is Jonathan Wilkins?
 
-###A little bit about me...
-
-
-###Skills
+### A little bit about me...
 
 
-###Work Experience
+### Skills
 
 
-###Education
+### Work Experience
 
 
-###Interests/Hobbies
+### Education
+
+
+### Interests/Hobbies
 
