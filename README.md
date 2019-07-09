@@ -24,7 +24,7 @@
   *Zausner Foods Corporation, New Holland, PA*
   - Wrote documentation for previously undocumented programs
   - Created spreadsheets of computer data for software push record keeping
-  - Provided technical support for other employees
+  - Provided technical support for employees
   
 ### Waiter
   *Tel Hai Retirement Community, Honey Brook, PA*
