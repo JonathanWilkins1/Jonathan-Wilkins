@@ -22,7 +22,7 @@
 ## Work Experience
 ### Information Technology Consultant Internship
   *Zausner Foods Corporation, New Holland, PA*
-  - Wrote documentation for previously undocumented programs
+  - Documented previously undocumented programs
   - Created spreadsheets of computer data for software push record keeping
   - Provided technical support for employees
   
@@ -44,7 +44,7 @@
   *Millersville University, Millersville, PA*
  - Will graduate with honors in May, 2022
  - Currently sitting with a 3.63 GPA
- - Involved in several curricular activities (community service, intermural sports)
+ - Involved in several extracurricular activities (community service, intermural sports)
  - Involved in marching band
   
 ### General Education Diploma
