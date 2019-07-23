@@ -3,3 +3,4 @@ title: Jonathan Wilkins
 description: Personal website
 include:
   - home.md
+  - software.md
