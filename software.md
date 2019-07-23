@@ -1,4 +1,4 @@
-#### [Home](../home)
+#### [Home](./home)
 
 
 # Software
