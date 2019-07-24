@@ -8,8 +8,8 @@
 |----------------------|------|
 | Microsoft Word       |   -  |
 | Microsoft Excel      |   -  |
-| Mircosoft Powerpoint |   -  |
-| Microsoft Sharepoint |   -  |
+| Mircosoft PowerPoint |   -  |
+| Microsoft SharePoint |   -  |
 | Microsoft Flow       |   -  |
 | Microsoft Teams      |   -  |
 | Microsoft OneNote    |   -  |
