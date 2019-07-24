@@ -15,6 +15,7 @@
 | Microsoft OneNote    |   -  |
 | Microsoft Outlook    |   -  |
 | Microsoft Forms      |   -  |
+| Google Mail          |   -  |
 | Google Drive         |   -  |
 | Google Docs          |   -  |
 | Google Sheets        |   -  |
