@@ -1,4 +1,4 @@
-#### [Site Navigator](../)
+#### [Home](../)
 #### [About Me](./about)
 
 
