@@ -4,8 +4,6 @@
 # Software Experience
   This is a list of software applications that I have extensive experience with.
 
-
-
 | Name                 | Logo |
 |----------------------|------|
 | Microsoft Word       |   -  |
