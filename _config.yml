@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 title: Jonathan Wilkins
 description: Personal website
 include:
-  - home.md
+  - about.md
   - software.md
+  - index.html
