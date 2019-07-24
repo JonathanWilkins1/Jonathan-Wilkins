@@ -1,4 +1,4 @@
-#### [Site Navigator](../)
+#### [Home](../)
 #### [Software Skills](./software)
 
 
