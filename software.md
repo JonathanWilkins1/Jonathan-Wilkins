@@ -1,4 +1,3 @@
-#### [Home](../)
 #### [About Me](./about)
 
 
