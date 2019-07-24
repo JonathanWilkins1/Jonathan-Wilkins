@@ -1,4 +1,3 @@
-#### [Home](../)
 #### [Software Skills](./software)
 
 
