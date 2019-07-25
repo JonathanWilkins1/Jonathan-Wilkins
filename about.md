@@ -29,7 +29,7 @@
   - Created workflows for automating processes
   - Wrote proposals for new software licenses
   - Documented previously undocumented programs
-  - Created spreadsheets of computer data for software push record keeping
+  - Created spreadsheets to manage software distribution
   - Provided technical support for employees
   
 ### Waiter
