@@ -25,6 +25,9 @@
 ## Work Experience
 ### Information Technology Consultant Internship
   *Zausner Foods Corporation, New Holland, PA*
+  - Imaged and set up computers
+  - Created workflows for automating processes
+  - Wrote proposals for new software licenses
   - Documented previously undocumented programs
   - Created spreadsheets of computer data for software push record keeping
   - Provided technical support for employees
