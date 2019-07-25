@@ -4,7 +4,7 @@
 # Software Experience
   This is a list of software applications that I have extensive experience with.
 
-| Name                 | Logo |
+| __Name__                 | __Logo__ |
 |----------------------|------|
 |**Microsoft**         |      |
 | Microsoft Word       |   ![](./images/Word.png)   |
