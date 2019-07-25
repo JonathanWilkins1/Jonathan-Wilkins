@@ -6,19 +6,19 @@
 
 | Name                 | Logo |
 |----------------------|------|
-| Microsoft Word       |   -  |
-| Microsoft Excel      |   -  |
-| Mircosoft PowerPoint |   -  |
-| Microsoft SharePoint |   -  |
-| Microsoft Flow       |   -  |
-| Microsoft Teams      |   -  |
-| Microsoft OneNote    |   -  |
-| Microsoft Outlook    |   -  |
-| Microsoft Forms      |   -  |
-| Google Mail          |   -  |
-| Google Drive         |   -  |
-| Google Docs          |   -  |
-| Google Sheets        |   -  |
-| Google Slides        |   -  |
-| Eclipse IDE          |   -  |
-| Enthought Canopy IDE |   -  |
+| Microsoft Word       |   ![](./images/Word.png)   |
+| Microsoft Excel      |   ![](./images/Excel.png)   |
+| Mircosoft PowerPoint |   ![](./images/PowerPoint.png)   |
+| Microsoft SharePoint |   ![](./images/SharePoint.png)   |
+| Microsoft Flow       |   ![](./images/Flow.png)   |
+| Microsoft Teams      |   ![](./images/Teams.png)   |
+| Microsoft OneNote    |   ![](./images/OneNote.png)   |
+| Microsoft Outlook    |   ![](./images/Outlook.png)   |
+| Microsoft Forms      |   ![](./images/Forms.jfif)   |
+| Google Mail          |   ![](./images/Mail.png)   |
+| Google Drive         |   ![](./images/Drive.png)   |
+| Google Docs          |   ![](./images/Docs.jpg)   |
+| Google Sheets        |   ![](./images/Sheets.jpg)   |
+| Google Slides        |   ![](./images/Slides.jpg)   |
+| Eclipse IDE          |   ![](./images/Eclipse.png)   |
+| Enthought Canopy IDE |   ![](./images/Canopy.jfif)   |
