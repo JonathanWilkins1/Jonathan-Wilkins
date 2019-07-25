@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Jonathan Wilkins
-description: Personal website
+description: Personal website - test
 include:
   - about.md
   - software.md
