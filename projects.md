@@ -17,10 +17,10 @@
   <summary>Inactive</summary>
   
   <details>
-  <summary>Tagpro Scripts</summary>
-  
-  * [Link to TP Scripts]()
-  * [or copy scripts and have them update from github]()
+   <summary>Tagpro Scripts</summary>
+   
+   * [Link to TP Scripts]()
+   * [or copy scripts and have them update from github]()
   </details>
   
   * [Operation PacMan]()
