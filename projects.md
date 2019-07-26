@@ -1,6 +1,6 @@
 # Projects
 
-**[Browse All Projects](./project_files)**
+**[Browse All](./project_files)**
 
 ### Active
   *Projects that I'm currently working on*
