@@ -1,20 +1,20 @@
 # Projects
 
 <details>
-  <summary>__Active__</summary>
+  <summary>Active</summary>
   
   Nothing here :)
 </details>
 
 
 <details>
-  <summary>__Idle__</summary>
+  <summary>Idle</summary>
   
   Nothing here :)
 </details>
 
 <details>
-  <summary>__Inactive__</summary>
+  <summary>Inactive</summary>
   
   Nothing here :)
 </details>
