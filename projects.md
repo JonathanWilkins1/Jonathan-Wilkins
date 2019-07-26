@@ -4,7 +4,7 @@
   *These are projects that I'm currently working on*
   * [Test](./projects)
 ### Inactive
-  *These are projects I'm currently taking a break on due to lack of interest or burnout*
+  *These are projects I'm currently taking a break on due to burnout or a lack of interest*
   * [Menu Builder](./projects/inactive/Menu_Builder)
 ### Finished
   *These may contain bugs, but I have no plans to continue developing these projects*
