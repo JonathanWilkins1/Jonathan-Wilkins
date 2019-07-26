@@ -1,27 +1,16 @@
 # Projects
 
-<details>
-  <summary>Active</summary>
-  
-  
-</details>
+### Active
+  **These are projects that I'm currently working on**
+  * [Test](./projects)
+### Inactive
+  **These are projects I'm currently taking a break on due to lack of interest or burnout**
+  * [Menu Builder](./projects/inactive/Menu_Builder)
+### Finished
+  **These may contain bugs, but I have no plans to continue developing these projects**
+  * [Operation PacMan](./projects/finished/Operation_PacMan)
+  * [Tagpro Scripts](./projects/finished/Tagpro_Scripts)
 
-
-<details>
-  <summary>Idle</summary>
-  
-  * [Menu Builder]()
-</details>
-
-<details>
-  <summary>Inactive</summary>
-  
-  <details>
-  &nbsp; <summary>Tagpro Scripts</summary>
-   
-  * [Link to TP Scripts]()
-  * [or copy scripts and have them update from github]()
-  </details>
-  
-  * [Operation PacMan]()
-</details>
+### Unstarted
+  **These are just ideas and have not be started or developed whatsoever**
+    * Flow Solver
