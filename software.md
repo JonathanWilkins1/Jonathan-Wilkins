@@ -1,4 +1,4 @@
-#### [About Me](./about)
+#### | [About Me](./about) | [Projects](./projects) |
 
 
 # Software Experience
