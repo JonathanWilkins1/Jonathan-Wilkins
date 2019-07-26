@@ -1,7 +1,7 @@
 # Projects
 
 <details>
- <summary style="font-weight:bold">Active</summary>
+ <summary><b>Active</b></summary>
  
   *Projects that I'm currently working on*
 </details>
