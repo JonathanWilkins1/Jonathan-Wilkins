@@ -1,16 +1,16 @@
 # Projects
 
 ### Active
-  **These are projects that I'm currently working on**
+  *These are projects that I'm currently working on*
   * [Test](./projects)
 ### Inactive
-  **These are projects I'm currently taking a break on due to lack of interest or burnout**
+  *These are projects I'm currently taking a break on due to lack of interest or burnout*
   * [Menu Builder](./projects/inactive/Menu_Builder)
 ### Finished
-  **These may contain bugs, but I have no plans to continue developing these projects**
+  *These may contain bugs, but I have no plans to continue developing these projects*
   * [Operation PacMan](./projects/finished/Operation_PacMan)
   * [Tagpro Scripts](./projects/finished/Tagpro_Scripts)
 
 ### Unstarted
-  **These are just ideas and have not be started or developed whatsoever**
+  *These are just ideas and have not be started or developed whatsoever*
     * Flow Solver
