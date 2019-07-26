@@ -3,18 +3,25 @@
 <details>
   <summary>Active</summary>
   
-  Nothing here :)
+  
 </details>
 
 
 <details>
   <summary>Idle</summary>
   
-  Nothing here :)
+  * [Menu Builder]()
 </details>
 
 <details>
   <summary>Inactive</summary>
   
-  Nothing here :)
+  <details>
+  <summary>Tagpro Scripts</summary>
+  
+  * [Link to TP Scripts]()
+  * [or copy scripts and have them update from github]()
+  </details>
+  
+  * [Operation PacMan]()
 </details>
