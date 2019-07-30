@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: Jonathan Wilkins
 description: Personal website
+github:
+  repository_url: https://www.google.com/
 include:
   - about.md
   - software.md
