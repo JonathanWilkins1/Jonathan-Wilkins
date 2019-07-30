@@ -4,6 +4,6 @@ description: Personal website
 github:
   repository_url: https://www.google.com/
 include:
-  - about.md
-  - software.md
-  - projects.md
+  - md/about.md
+  - md/software.md
+  - md/projects.md
