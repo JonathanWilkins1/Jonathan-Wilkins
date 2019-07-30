@@ -1,4 +1,4 @@
-#### | [Software Skills](./software) | [Projects](./projects) |
+#### | [About Me]() | [Software Skills](./software) | [Projects](./projects) |
 
 
 # Who is Jonathan Wilkins?
