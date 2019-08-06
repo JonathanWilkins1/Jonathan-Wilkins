@@ -6,10 +6,10 @@
 
 ### Active
   *Projects that I'm currently working on*
+  * [Menu Builder](https://github.com/JonathanWilkins1/Jonathan-Wilkins/tree/master/project_files/active/Menu_Builder)
 
 ### Inactive
   *Projects I'm currently taking a break on due to burnout or a lack of interest*
-  * [Menu Builder](https://github.com/JonathanWilkins1/Jonathan-Wilkins/tree/master/project_files/inactive/Menu_Builder)
 
 ### Finished
   *May contain bugs, but I have no plans to continue developing these projects*
