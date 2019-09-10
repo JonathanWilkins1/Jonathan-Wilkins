@@ -13,7 +13,7 @@
  * **HTML** - Self-taught for personal projects
  * **CSS** - Self-taught for implementation in personal projects alongside HTML
  * **JavaScript** - Self-taught for implementation in personal projects alongside HTML and CSS
- * **C & C++** - Basic knowledge and familiarity with C and C++ through several courses taken in college
+ * **C/C++** - Basic knowledge and familiarity with C and C++ through several courses taken in college
  
 ### Personal Skills
  - Hard worker
