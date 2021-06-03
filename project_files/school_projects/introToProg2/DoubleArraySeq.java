@@ -35,7 +35,7 @@
  * @version
  *   February 2018
  *   
- * @author Student name 
+ * @author Jonathan Wilkins 
  * 
  ******************************************************************************/
 public class DoubleArraySeq implements Cloneable
